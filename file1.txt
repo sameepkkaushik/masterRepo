@@ -1,0 +1,2 @@
+yes i am file1
+yes i am file1 and i am going to stage
